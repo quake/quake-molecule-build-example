@@ -1,4 +1,4 @@
 /target
 /Cargo.lock
-schemas/bar.mol
-src/bar.rs
+schemas/foo.mol
+src/foo.rs
